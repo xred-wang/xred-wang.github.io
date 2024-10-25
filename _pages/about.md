@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋Hello, I'm Hongquan Wang, My English name is Petter Wang. I'm pursuing my master's degree at University of Chinese Academy of Sciences. I'm enthusiastic about utilizing AI methods to solve problems in cybersecurity and exploring methods to secure AI systems. Furthermore, I'd also want to utilize such autonomous technology with people from all over the world to build a happier world where people feel happy about the things they are doing. Let's go to that world together!😀
+👋 Hello, I’m Hongquan Wang, and my English name is Petter Wang. I am currently pursuing a master’s degree in computer technology at University of Chinese Academy of Sciences. I am passionate about leveraging AI techniques to address challenges in cybersecurity and exploring strategies to secure AI systems. Additionally, I aspire to collaborate with individuals from around the globe to create a happier world where people find joy in their pursuits. Let’s embark on this journey together!😀
 
 A data-driven personal website
 ======
